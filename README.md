@@ -18,6 +18,6 @@ You can demo the program by running `python dummy_csv_writer/write_dummy_csv.py`
 
 You can then use the program following the usage instruction and it will use the dummy csv file to generate the graphs.
 
-Remember to stop running `write\_dummy\_csv.py` when you are done!
+Remember to stop running `write_dummy_csv.py` when you are done!
 
 
