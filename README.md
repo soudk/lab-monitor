@@ -3,9 +3,7 @@ Basic software to display temperatures, pressures and other environmental variab
 
 Uses: Flask, Bootstrap, Highcharts.
 
-Based on [Flask Charts Youtube Tutorials
-
- by soumilshah1995](https://github.com/soumilshah1995/Flask-Charts-Youtube-Tutorials-)
+Based on [Flask Charts Youtube Tutorials by soumilshah1995](https://github.com/soumilshah1995/Flask-Charts-Youtube-Tutorials-)
 
 ## Usage
 
