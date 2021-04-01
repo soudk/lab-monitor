@@ -7,7 +7,7 @@ Based on [Flask Charts Youtube Tutorials by soumilshah1995](https://github.com/s
 
 ## Usage
 
-- In `app.py` change the variable `my\_csv\_file` to your live-populated csv file. 
+- In `app.py` change the variable `my_csv_file` to your live-populated csv file. 
 - execute by `python app.py` 
 - Open your browser to [http://localhost:5000](http://localhost:5000) and view your data
 
